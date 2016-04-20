@@ -1,0 +1,122 @@
+@charset "utf-8";
+/**
+ * Description: base style
+ * Developers: liuyang@qianyilc.com
+ **/
+ /*reset  start
+---------------------------------------------------------*/
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+  	-webkit-box-sizing: border-box;
+	-webkit-tap-highlight-color: rgba(0,0,0,0);
+	-webkit-tap-highlight-color: transparent;
+}
+body {
+    font-size: 14px;
+    color: #919aa7;
+    background-color: #fff;
+    position: relative;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+b,
+em,
+strong,
+address,
+caption,
+cite,
+code,
+dfn,
+th,
+var,
+i {
+  font-style: normal;
+  font-weight: normal;
+  -webkit-text-size-adjust: none;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6{
+	font-size: 100%;
+	font-weight: normal;
+}
+li{
+	list-style: none;
+}
+fieldset,img{
+	border-width: 0;
+}
+table {
+	border-collapse:collapse;
+	border-spacing:0;
+}
+a{
+	text-decoration: none;
+	outline: none;
+	cursor:pointer;
+}
+legend{
+	font-size: 0;
+	line-height: 0;
+	color: rgba(0,0,0,0);
+}
+input{
+	background-color: transparent;
+	border-width: 0;
+	outline: none;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button{
+    -webkit-appearance:none !important;
+    margin: 0;
+}
+@media screen and (min-width: 320px) {
+    html {
+        font-size: 313%;
+    }
+}
+
+@media screen and (min-width: 375px) {
+    html {
+        font-size: 366%;
+    }
+}
+
+@media screen and (min-width: 410px) {
+    html {
+        font-size: 400%;
+    }
+}
+
+@media screen and (min-width: 480px) {
+    html {
+        font-size: 469%;
+    }
+}
+
+@media screen and (min-width: 568px) {
+    html {
+        font-size: 555%;
+    }
+}
+
+@media screen and (min-width: 640px) {
+    html {
+        font-size: 625%;
+    }
+}
+
+@media screen and (min-width: 736px) {
+    html {
+        font-size: 719%;
+    }
+}

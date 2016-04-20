@@ -1,0 +1,14 @@
+/.sass-cache/
+.DS_Store 
+node_modules/
+.svn
+*.ini
+*.tmp
+*.doc
+*.dll
+*.txt
+*.exe
+*.bat
+*.log
+*.psd
+*.ai
