@@ -1,11 +1,11 @@
 {
-  "name": "QianyilcBuild",
+  "name": "Build",
   "version": "1.0.0",
-  "description": "Qianyilc build gulp config file!",
-  "keywords": "http://www.qianyilc.com",
+  "description": "build gulp config file!",
+  "keywords": "",
   "bugs": {
-    "url": "http://github.com/iuunhao/incgulp/issues",
-    "email": "liujunhao@qianyilc.com"
+    "url": "",
+    "email": ""
   },
   "license": {
     "license": "MIT"
